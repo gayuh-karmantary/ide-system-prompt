@@ -84,16 +84,16 @@ Prompts in this folder **must not** be used for new work.
 
 Every AI request follows this order:
 
-1. **Design System Prompt** (if UI or code is involved)
-2. **Base Prompt** (always required)
+1. **Base Prompt** (always required)
+2. **Design System Prompt** (if UI or code is involved)
 3. **System Overlay** (exactly one)
 4. **Task Prompt** (what to build)
 
 Example:
 
 ```
-[DESIGN SYSTEM]
 [BASE]
+[DESIGN SYSTEM]
 [SIMKSPSTK OVERLAY]
 [TASK]
 ```
