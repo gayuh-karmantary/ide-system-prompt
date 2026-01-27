@@ -9,7 +9,7 @@ It exists to ensure:
 * regulatory and institutional correctness
 * controlled evolution of prompts via review
 
-> **Important**: Prompts are **authored and governed here**, but **copied and used from Notion**. Do not copy prompts directly from GitHub unless you are a maintainer.
+> **Important**: Prompts are **authored and governed here**, but **copied and used from Google Docs**. You can copy prompts directly from GitHub but make sure to communicate to **Content Design team**.
 
 ---
 
@@ -120,7 +120,7 @@ Example:
 ### Versioning
 
 * Versions are tracked via Git history and tags.
-* Version labels shown in Notion must match the latest approved commit.
+* Version labels shown in Google Docs must match the latest approved commit.
 
 ---
 
@@ -128,20 +128,20 @@ Example:
 
 * ❌ Not a playground for experimentation
 * ❌ Not a place for system-specific UI tasks
-* ❌ Not a substitute for Notion prompt blocks
+* ❌ Not a substitute for Google Docs prompt blocks
 
-If you want to *use* a prompt, go to **Notion**.
+If you want to *use* a prompt, go to **designated folder in this Github**.
 If you want to *change* a prompt, contact **Content Design team**.
 
 ---
 
-## Relationship with Notion
+## Relationship with Google Docs
 
-Notion is the **distribution layer**:
+Google Docs is the **creation layer**:
 
-* prompts are copied from approved GitHub commits
-* pasted into locked, read-only code blocks
-* used by designers, PMs, and engineers
+* prompts are created and mostly changed in Google Docs
+* prompts then pasted into locked, read-only code blocks in Github
+* prompts in Github then used by designers, PMs, and engineers
 
 GitHub remains the **source of truth**.
 
@@ -149,9 +149,9 @@ GitHub remains the **source of truth**.
 
 ## FAQ
 
-### Can I copy prompts directly from GitHub?
+### Can I copy prompts directly from Google Docs?
 
-Technically yes, but **not recommended** unless you are a maintainer. Always prefer the official Notion page to avoid partial copies or outdated versions.
+Technically yes, but **not recommended** unless you are a maintainer. Always prefer the official Github page to avoid partial copies or outdated versions.
 
 ### Can I modify a prompt for my team?
 
