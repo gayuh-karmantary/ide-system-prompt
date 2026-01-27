@@ -79,6 +79,7 @@ These principles apply to every piece of copy, regardless of component or contex
 | Headings | Title Case | Seleksi Administrasi |
 | Table headers | Title Case | Nama Lengkap |
 | Roles | Title Case | Guru, Kepala Sekolah, Murid |
+| Proper nouns | Title Case | Direktorat Jenderal GTK
 | Body text | Sentence case | Silakan pilih. |
 | Buttons | Sentence case | Ajukan formasi |
 | Form labels | Sentence case | Nama lengkap |
