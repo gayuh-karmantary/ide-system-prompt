@@ -47,10 +47,10 @@ These principles apply to every piece of copy, regardless of component or contex
 
 ---
 
-## **Formal Copywriting Rules (Government Context)**
+## **Government Context Rules**
 
 * Prioritize clarity over stylistic tone when space is limited.  
-* Maintain a **formal, neutral, and respectful tone** at all times.  
+* Maintain a **neutral and respectful tone** at all times.  
 * Treat the platform as an official government system.  
 * Follow KBBI, applicable regulations, and official institutional language.
 
