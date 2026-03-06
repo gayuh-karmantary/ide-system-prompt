@@ -2,7 +2,7 @@
 
 This overlay MUST always be used **together with the Base Prompt – Content Design Guidelines (cross system)**.
 
-All rules in the Base Prompt remain fully applicable. If any rule in this overlay conflicts with the Base Prompt, **the stricter rule applies**.
+All rules in the Base Prompt remain fully applicable. If any rule in this overlay conflicts with the Base Prompt, **the Overlay Prompt applies**.
 
 ---
 
