@@ -44,6 +44,8 @@ These principles apply to every piece of copy, regardless of component or contex
   Ensure accuracy and alignment with official regulations and institutional sources.  
 * **Inclusive**  
   DO NOT use slang. DO NOT assume gender, region, age, or background.
+* **Tone is calibrated per tribe and audience**  
+  These principles are universal. For voice, formality level, and phrasing style, refer to tribe-specific guidelines/overlay.
 
 ---
 
