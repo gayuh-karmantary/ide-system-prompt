@@ -129,13 +129,15 @@ These principles apply to every piece of copy, regardless of component or contex
 
 ### **Validation**
 
-* // Error  
-  * "Kolom ini wajib diisi"  
-  * "Format tidak valid"  
-  * "Ukuran berkas melebihi batas maksimum 5 MB"  
-* // Success  
-  * "Data berhasil disimpan"  
-  * "Berkas berhasil diunggah"
+* Error  
+  * "Wajib diisi"
+  * "Format tidak valid"
+  * "Ukuran berkas melebihi batas maksimum 5 MB"
+  * “Gagal simpan data. Coba lagi.”
+ 
+* Success  
+  * "Berhasil simpan data!"
+  * "Berhasil unggah berkas!"
 
 ### **Toast Messages**
 
